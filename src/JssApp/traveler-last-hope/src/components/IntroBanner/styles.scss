@@ -1,0 +1,35 @@
+
+@import "../../assets/styles/utils/index";
+.c-IntroBanner {
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  &__img {
+    text-align: center;
+  }
+
+  &__heading {
+    @media (min-width: 1024px) {
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+    color: white;
+    padding: 2rem;
+    width: 940px;
+    /* max-width: 100%; */
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba($color: #000000, $alpha: .5);
+  }
+
+  // styles of root component
+  position: relative;
+  overflow: hidden;
+}

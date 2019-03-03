@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "c:\\inetpub\\wwwroot\\sxa.test.sc",
+    "apiKey": "{5994316B-0A26-47F3-87AC-EC18741AAA0D}",
+    "deploySecret": "8isfwp1li057cedps546gsq9j6236hnpag65p4wwdpmu",
+    "deployUrl": "http://sxa.test.sc/sitecore/api/jss/import",
+    "layoutServiceHost": "http://sxa.test.sc"
+  }
+}

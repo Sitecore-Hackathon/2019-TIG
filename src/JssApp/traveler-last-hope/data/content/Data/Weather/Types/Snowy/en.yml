@@ -1,0 +1,4 @@
+id: "weather-type-snowy"
+template: "data-weather-type"
+fields:
+  typeName: Snowy

@@ -1,0 +1,17 @@
+id: "product-bottle"
+template: "data-product"
+fields:
+  productName: Bottle
+#  category:
+#    id: pmd-category-
+  weatherType:
+    - id: weather-type-cloudy
+    - id: weather-type-rainy
+    - id: weather-type-snowy
+    - id: weather-type-sunny
+    - id: weather-type-windy
+  image:
+    src: /data/media/PMD/Products/bottle.jpg
+    alt: Bottle
+  description: ...
+  price: 10.0

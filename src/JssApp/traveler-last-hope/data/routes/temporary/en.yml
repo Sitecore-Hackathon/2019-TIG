@@ -1,0 +1,30 @@
+# because images are not imported to media library for Content/Data items
+id: temporary-page
+
+fields:
+placeholders:
+  jss-main:
+  - componentName: ImagesTemp
+    fields:
+      # obejście dla nie kopiowanych obrazków dla itemów z content/data/people
+      images:
+        - fields:
+            image:
+              src: /data/media/PMD/Products/bottle.jpg
+              alt: bottle
+        - fields:
+            image:
+              src: /data/media/PMD/Products/sunglasses.jpg
+              alt: sunglasses
+        - fields:
+            image:
+              src: /data/media/PMD/Products/umbrella.jpg
+              alt: umbrella
+        - fields:
+            image:
+              src: /data/media/PMD/Products/windbreaker-jacket.jpg
+              alt: windbreaker-jacket
+        - fields:
+            image:
+              src: /data/media/PMD/Products/winter-hat.jpg
+              alt: winter-hat

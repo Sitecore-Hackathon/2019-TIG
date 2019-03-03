@@ -1,0 +1,4 @@
+id: "weather-type-rainy"
+template: "data-weather-type"
+fields:
+  typeName: Rainy

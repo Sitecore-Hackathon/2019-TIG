@@ -1,0 +1,4 @@
+id: "weather-type-sunny"
+template: "data-weather-type"
+fields:
+  typeName: Sunny

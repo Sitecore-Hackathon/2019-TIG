@@ -1,0 +1,15 @@
+id: "product-umbrella"
+template: "data-product"
+fields:
+  productName: Hiper umbrella
+#  category:
+#    id: pmd-category-
+  weatherType:
+    - id: weather-type-rainy
+    - id: weather-type-sunny
+    - id: weather-type-windy
+  image:
+    src: /data/media/PMD/Products/umbrella.jpg
+    alt: Hiper umbrella
+  description: ...
+  price: 14.0

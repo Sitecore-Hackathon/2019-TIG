@@ -1,0 +1,4 @@
+id: weather-type-cloudy
+template: "data-weather-type"
+fields:
+  typeName: Cloudy

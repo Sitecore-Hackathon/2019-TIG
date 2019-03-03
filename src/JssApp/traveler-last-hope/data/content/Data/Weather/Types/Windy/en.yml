@@ -1,0 +1,4 @@
+id: "weather-type-windy"
+template: "data-weather-type"
+fields:
+  typeName: Windy

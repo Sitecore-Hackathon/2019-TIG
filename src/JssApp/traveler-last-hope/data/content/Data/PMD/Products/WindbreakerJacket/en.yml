@@ -1,0 +1,15 @@
+id: "product-windbreaker-jacket"
+template: "data-product"
+fields:
+  productName: Windbreaker Jacket
+#  category:
+#    id: pmd-category-
+  weatherType:
+    - id: weather-type-cloudy
+    - id: weather-type-rainy
+    - id: weather-type-windy
+  image:
+    src: /data/media/PMD/Products/windbreaker-jacket.jpg
+    alt: Windbreaker Jacket
+  description: ...
+  price: 19.0

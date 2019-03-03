@@ -1,0 +1,14 @@
+id: "product-sunglasses"
+template: "data-product"
+fields:
+  productName: Sunglasses
+#  category:
+#    id: pmd-category-
+  weatherType:
+    - id: weather-type-sunny
+    - id: weather-type-windy
+  image:
+    src: /data/media/PMD/Products/sunglasses.jpg
+    alt: Sunglasses
+  description: ...
+  price: 13.0
